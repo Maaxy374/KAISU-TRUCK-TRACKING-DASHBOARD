@@ -1,0 +1,23 @@
+{
+  "name": "kaisu-truck-tracking-dashboard",
+  "version": "1.0.0",
+  "description": "Live Fleet Tracking & Operations Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "build": "echo 'Build complete'",
+    "deploy": "echo 'Deploy to GitHub Pages'"
+  },
+  "keywords": [
+    "fleet",
+    "tracking",
+    "dashboard",
+    "truck",
+    "operations"
+  ],
+  "author": "Maaxy374",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
